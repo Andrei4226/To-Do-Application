@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/yellowBackground">
+        <file>D:/Desktop/yellow.jpg</file>
+    </qresource>
+</RCC>

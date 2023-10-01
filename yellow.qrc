@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/yellow">
+        <file>D:/Desktop/yellow.avif</file>
+    </qresource>
+</RCC>
