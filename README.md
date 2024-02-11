@@ -1,4 +1,4 @@
-I tried to create an application for monitoring daily activities in <b>Qt (C++).</b>
+I created an application for monitoring daily activities in <b>Qt (C++).</b>
 There are three main sections:
 <I>
   - daily activities
